@@ -1,5 +1,11 @@
-export default function App() {}
+import ".App.css";
 
 function App() {
-  return <h1>hello</h1>;
+  return (
+    <div classname="App">
+      <h3>props : properties</h3>
+    </div>
+  );
 }
+
+export default App;
