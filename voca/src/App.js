@@ -5,6 +5,7 @@ function App() {
     <div classname="App">
       <h3>props : properties</h3>
       <h2>properties</h2>
+      <h2>properties</h2>
     </div>
   );
 }
